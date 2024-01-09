@@ -12,5 +12,5 @@ git add
 git commit
 ```
 
--[x] input
--[]  add cal
+- [x] input
+- []  add cal
